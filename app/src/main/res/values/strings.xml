@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">College_selector</string>
+
+    <string-array name="array_name">
+        <item>Select highest education level</item>
+        <item>Diploma</item>
+        <item>Advanced Diploma</item>
+        <item>Degree</item>
+        <item>Master</item>
+    </string-array>
+
+</resources>
